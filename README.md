@@ -23,5 +23,6 @@
 Запустить сервер с hot-reload: `npm run dev`
 
 ## Ccылка на pullrequests
-
+https://github.com/sergeitovpeko/movies-explorer-api/pull/1
 ## Ccылка на репозиторий
+https://sergeitovpeko.github.io/movies-explorer-api/
